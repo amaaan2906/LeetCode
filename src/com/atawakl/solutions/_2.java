@@ -1,3 +1,10 @@
+/**
+ * Time Submitted: May 13 2020 20:37
+ * Runtime: 1 ms
+ * Memory: 39.6 MB
+ * Link: https://leetcode.com/problems/add-two-numbers/
+ */
+
 package com.atawakl.solutions;
 
 import com.atawakl.common.ListNode;
